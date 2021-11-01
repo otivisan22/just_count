@@ -36,6 +36,7 @@ export default function BasicModal() {
           </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
             Thank you for believing in me and for making my journey so magical
+            DevOps Engineer loading
           </Typography>
         </Box>
       </Modal>
